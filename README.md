@@ -2,7 +2,7 @@
 ## 👀 I’m interested in Coding
 ## 🌱 I’m currently learning Deep Learning
 ## 📫 `rex89x@gmail.com`
-## NTUB BitCoinDirect(https://github.com/NTUB-110206)
+## (https://github.com/NTUB-110206)-NTUB BitCoinDirect
 
 <!---
 rex89x/rex89x is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
