@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m @rex89x
 ## 👀 I’m interested in Coding
-## 🌱 Research Assistant at NTUB IDS
+## 🌱 Researching Assistant at NTUB IDS
 ## 🌱 Deep Learning Teaching Assistant at National Federation of Labor
 ## 🌱 NTUB AIoT Lab Member
 ## 📫 `rex89x@gmail.com`
