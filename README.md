@@ -1,7 +1,7 @@
 ## 👋 Hi, I’m @rex89x
-## 👀 I’m interested in Coding
+## 👀 I’m interested in Coding, Computer Vision
 ## 🌱 Researching Assistant at NTUB IDS
-## 🌱 Deep Learning Teaching Assistant at National Federation of Labor
+## 🌱 Machine Learning & Deep Learning Teaching Assistant at National Federation of Labor
 ## 🌱 NTUB AIoT Lab Member
 ## 📫 `rex89x@gmail.com`
 ## ( https://github.com/NTUB-110206 )-NTUB BitCoinDirect
